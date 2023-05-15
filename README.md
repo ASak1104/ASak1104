@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - 🏢 **DARI**. Back-end developer (July 2021 – August 2021)
 - 🏢 **ELICE**. Content developer (March 2021 - June 2021)
   
-<br/><br/>
 
 ### ⭐ My Github
 ---
