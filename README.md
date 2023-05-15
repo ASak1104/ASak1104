@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 - 🎓 **KOOKMIN UNIV.** Bachelor of Science degree in Software
 - 🏢 **INSPIEN.** Full stack developer (June 2022 – August 2022)
 - 🏫 **DDPS LAB.** Student researcher (March 2022 – June 2022)
+- 🏢 **DARI**. Back-end developer (July 2021 – August 2021)
+- 🏢 **ELICE**. Content developer (March 2021 - June 2021)
   
 <br/><br/>
 
