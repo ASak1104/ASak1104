@@ -1,4 +1,7 @@
-### Hi there 👋
+![Header](https://github.com/ASak1104/ASak1104/assets/31983961/1b4da5e7-de95-4f88-a2fe-d0d7ed5ea99a)
+
+
+### Hi 👋 I'm ASak1104
 
 <!--
 **ASak1104/ASak1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
