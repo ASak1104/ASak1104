@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!-- ### Hi 👋 I'm ASak1104 -->
 
-### 💬 About me
+### 💬 About Me
 ---
 <a href="https://solved.ac/khw56184/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khw56184" align="right">
