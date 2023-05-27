@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 ---
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASak1104&show_icons=true&theme=vue" width="50%" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASak1104&layout=compact" width="38%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASak1104&show_icons=true&theme=vue&rank_icon=github" width="50%" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASak1104&layout=compact" width="40%" align="center">
 </p>
