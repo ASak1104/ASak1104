@@ -37,8 +37,8 @@ Here are some ideas to get you started:
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khw56184" align="right">
 <a/>
   
-- 🌱 Entry-level of **Back-end** developer and **Infra** engineer
-- 🎓 **KOOKMIN UNIV.** Bachelor of Science degree in Software
+- 🌱 **Back-end** developer and **Infrastructure** engineer
+- 🎓 **KOOKMIN UNIV.** Bachelor of Software (GPA 4.39 / 4.5)
 - 🏢 **INSPIEN.** Full stack developer (June 2022 – August 2022)
 - 🏫 **DDPS LAB.** Student researcher (March 2022 – June 2022)
 - 🏢 **DARI**. Back-end developer (July 2021 – August 2021)
