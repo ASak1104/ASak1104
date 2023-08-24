@@ -33,17 +33,18 @@ Here are some ideas to get you started:
 
 ### 💬 About Me
 ---
-<a href="https://solved.ac/khw56184/">
+
+<a href="https://solved.ac/khw56184/" width="50%">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khw56184" align="right">
-<a/>
-  
+</a>
+
 - 🌱 **Back-end** developer and **Infrastructure** engineer
 - 🎓 **KOOKMIN UNIV.** Bachelor of Software (GPA 4.39 / 4.5)
 - 🏢 **INSPIEN.** Full stack developer (June 2022 – August 2022)
 - 🏫 **DDPS LAB.** Student researcher (March 2022 – June 2022)
 - 🏢 **DARI**. Back-end developer (July 2021 – August 2021)
 - 🏢 **ELICE**. Content developer (March 2021 - June 2021)
-  
+
 
 ### ⭐ My Github
 ---
