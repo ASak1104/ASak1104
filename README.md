@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/asak1104/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1Bi_HiQDVwLoDCIqetei_tNIl7X--wUXP/view">
+    <img src="https://img.shields.io/badge/Portfolio-orange?logo=orange&logoColor=white">
+  </a>
 </p>
 
 
