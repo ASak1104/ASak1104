@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 ![Header](https://github.com/ASak1104/ASak1104/assets/31983961/1b4da5e7-de95-4f88-a2fe-d0d7ed5ea99a)
 
 <p align='center'>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FASak1104&count_bg=%23319B9B&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Welcome&edge_flat=false" />
-  </a>
   <a href="mailto:khw56184@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
