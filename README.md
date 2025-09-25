@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 🏢 **EMRO.** Cloud engineer (Sep 2024 - Sep 2025)
 - 🏢 **INSPIEN.** Full-stack developer (June 2022 – August 2022)
 - 🏫 **DDPS LAB.** Student researcher (March 2022 – June 2022)
-- 🏢 **DARI**. Backend developer (July 2021 – August 2021)
+- 🏢 **DARI Maker**. Backend developer (July 2021 – August 2021)
 - 🏢 **ELICE**. Content developer (March 2021 - June 2021)
 
 
