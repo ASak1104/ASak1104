@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 
 - 🌱 **Back-end** developer and **Infrastructure** engineer
 - 🎓 **KOOKMIN UNIV.** Bachelor of Software (GPA 4.39 / 4.5)
-- 🏢 **EMRO.** Cloud engineer (Sep 2024 - Present)
-- 🏢 **INSPIEN.** Full stack developer (June 2022 – August 2022)
+- 🏢 **HYUNDAI AutoEver.** Backend engineer (Nov 2025 - Present)
+- 🏢 **EMRO.** Cloud engineer (Sep 2024 - Sep 2025)
+- 🏢 **INSPIEN.** Full-stack developer (June 2022 – August 2022)
 - 🏫 **DDPS LAB.** Student researcher (March 2022 – June 2022)
-- 🏢 **DARI**. Back-end developer (July 2021 – August 2021)
+- 🏢 **DARI**. Backend developer (July 2021 – August 2021)
 - 🏢 **ELICE**. Content developer (March 2021 - June 2021)
 
 
