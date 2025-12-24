@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khw56184" align="right">
 </a>
 
-- 🌱 **Back-end** developer and **Infrastructure** engineer
-- 🎓 **KOOKMIN UNIV.** Bachelor of Software (GPA 4.39 / 4.5)
+🎓 **KOOKMIN UNIV.** Bachelor of Software (GPA 4.39 / 4.5)
+
 - 🏢 **HYUNDAI AutoEver.** Backend engineer (Oct 2025 - Present)
 - 🏢 **EMRO.** Cloud engineer (Sep 2024 - Sep 2025)
 - 🏢 **INSPIEN.** Full-stack developer (June 2022 – August 2022)
