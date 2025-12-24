@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 🏢 **DARI Maker**. Backend developer (July 2021 – August 2021)
 - 🏢 **ELICE**. Content developer (March 2021 - June 2021)
 
-
+<!--
 ### ⭐ My Github
 ---
 
@@ -55,3 +55,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=ASak1104&show_icons=true&theme=vue&rank_icon=github" width="50%" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASak1104&layout=compact" width="40%" align="center">
 </p>
+-->
